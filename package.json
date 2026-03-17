@@ -1,0 +1,33 @@
+{
+  "name": "lnget-observer",
+  "version": "0.1.0",
+  "description": "Sync lnget L402 payment history to Observer Protocol",
+  "type": "module",
+  "bin": {
+    "lnget-observer": "./lnget-observer.mjs"
+  },
+  "scripts": {
+    "demo": "node demo-mode.mjs"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "lnget",
+    "l402",
+    "lightning",
+    "bitcoin",
+    "observer-protocol",
+    "agent",
+    "reputation"
+  ],
+  "author": "Observer Protocol",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/observer-protocol/lnget-observer.git"
+  }
+}
