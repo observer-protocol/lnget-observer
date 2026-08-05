@@ -1,3 +1,8 @@
+> # ARCHIVED. No package was ever published from this repository, so **nothing was unpublished**.
+>
+> A utility for syncing `lnget` L402 payment history to Observer Protocol. **No successor is
+> planned** — it is not superseded by anything, it simply stopped. Kept public and readable.
+
 # lnget-observer
 
 > Turn your lnget L402 payment history into a portable, verifiable agent reputation.
