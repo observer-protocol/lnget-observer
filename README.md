@@ -2,6 +2,10 @@
 >
 > A utility for syncing `lnget` L402 payment history to Observer Protocol. **No successor is
 > planned** — it is not superseded by anything, it simply stopped. Kept public and readable.
+>
+> **The reputation model described below was ruled off Observer Protocol.** Agent standing
+> earned from accumulated transaction history is not part of the protocol and no surface
+> should assert it. The text below is kept unedited as a record of what this repository did.
 
 # lnget-observer
 
